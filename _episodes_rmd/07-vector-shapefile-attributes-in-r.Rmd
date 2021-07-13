@@ -253,7 +253,7 @@ First we will check how many unique levels our factor has:
 levels(lines_HARV$TYPE)
 ```
 
-Then we can create a pallet of four colors, one for each
+Then we can create a palette of four colors, one for each
 feature in our vector object.
 
 ```{r}
